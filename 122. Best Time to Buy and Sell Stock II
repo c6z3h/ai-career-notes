@@ -1,0 +1,11 @@
+class Solution(object):
+    def maxProfit(self, prices):
+        """
+        :type prices: List[int]
+        :rtype: int
+        """
+        sum = 0;
+        for c in (1, 10^4):
+	        if ((prices[c] > prices[c-1]) and (prices[c] - prices[c-1] >1)):
+		    sum += prices[c] - prices[c-1];
+		    c = c+1;
