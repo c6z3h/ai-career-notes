@@ -6,7 +6,7 @@ class Solution(object):
         """
         return self.calculate(prices, 0)
     
-    
+    ##
     def calculate(prices, s):
         for x in prices:
             if (s >= len(prices)):
