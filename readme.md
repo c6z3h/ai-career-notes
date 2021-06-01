@@ -5,3 +5,6 @@ Brute force methods are usually the easiest, first thing to think of. For an exa
 
 ## 2. Binary Search Algorithm
 By implementing the low = 0, high = len(array), n = (high - low)//2 and iterating over that, the search space effectively can be halved. This greatly reduces computational time.
+
+## 3. Creativity
+Check out the creative solutions on LeetCode discussion pages!
