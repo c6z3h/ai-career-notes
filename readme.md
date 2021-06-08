@@ -16,4 +16,4 @@ Check out the creative solutions on LeetCode discussion pages!
 
 
 ----------------------------------------------
-# EXplorations of DSAI/ML.
+# Explorations of DSAI/ML.
