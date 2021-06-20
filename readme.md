@@ -1,29 +1,16 @@
-# Summary of Key Lessons
-
-## 0. Algorithms and Data Structures (ADS)
-Continuing [Part 3 of ADS lectures by MIT[08:43]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/). Irrelevant to ADS, [problem sets 4 and 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/) may be good practice if there is time.
-
-Time Complexity Desirability: O(1) > O(logn) {reduce problem in half each time, bisection seach} > O(n) > O(nlogn) [{Timsort}](https://en.wikipedia.org/wiki/Timsort) > O(n^c) {nested loops} > O(c^n)
-
-## 1. Brute Force Works, Just Not As Well On Big Problems.
-Brute force methods are usually the easiest, first thing to think of. For an example, see two-sum.py. Beyond the initial solution, one should think of answers that help reduce computational time and/or space. This is related to the idea of **space and time complexity.** In the example of two-sum.py, we see that sacrificing some space by saving values into a **dictionary lookup** instead of double for-loops help reduce time complexity from O(n^2) to O(n), 4000ms to 40ms!
-
-## 2. Binary Search Algorithm
-By implementing the low = 0, high = len(array), n = (high - low)//2 and iterating over that, the search space effectively can be halved. This greatly reduces computational time.
-
-## 3. Creativity
-Check out the creative solutions on LeetCode discussion pages!
-
-
+# Updates at a glance / what I did today:
+- Restructured this readme.md according to priority.
+- Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
+- Segmented the Methods section of AlphaZERO research paper to dissect.
+- Read "Why?" segment of "Cracking the Coding Interview".
+## Next:
+- [AlphaZERO Paper](https://www.nature.com/articles/nature24270): Go through a few sections of Methods
+- Cracking the Coding Interview: Learn some interesting algorithms that can actually help me use computing for good.
+- Which suit me better, **Managerial** roles or **Technical** roles?
+- Study some anthropology to know how to create better RL models, especially how to model the ever-changing subgoals of living things. Perhaps too, what cause the successful predictive modelling of "Limits to Growth"..
 ----------------------------------------------
 # Career Explorations
-Today was a tiring day... just gonna copy-paste some job requirements I found on LinkedIn for DSAI.
-Interestingly, **Team Lead** roles at Apple and a few other companies don't require **technical** skills at all! Got to seriously consider which path is more right for me.
-
 Target of Artificial General Intelligence (AGI). Why? If done well, it may offer a prediction of our future, and solve problems ahead of our time. We may be able to leap forward eons to reach the stable equilibria that awaits Earthlings at last. NLP, CV are smart, but they are specific to the domain -- [RL may be the backbone](https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/). Printed the DeepMind paper, ["Reward is enough"](https://www.sciencedirect.com/science/article/pii/S0004370221000862),
-
-## NEXT: Reading AlphaZero - [Mastering the game of Go without human knowledge (Methods)](https://www.nature.com/articles/nature24270)
-And perhaps some anthropology to know how to create better RL models, especially of ever-changing subgoals of living things. Perhaps too, what cause the successful modelling of "Limits to Growth"..
 
 [He’s not alone. Part of the problem is that AGI is a catchall for the hopes and fears surrounding an entire technology. Contrary to popular belief, it’s not really about machine consciousness or thinking robots (though many AGI folk dream about that too). But it is about thinking big. Many of the challenges we face today, from climate change to failing democracies to public health crises, are vastly complex. If we had machines that could think like us or better—more quickly and without tiring—then maybe we’d stand a better chance of solving these problems. As the computer scientist I.J. Good put it in 1965: “the first ultraintelligent machine is the last invention that man need ever make.” - MIT Technology Review](https://www.technologyreview.com/2020/10/15/1010461/artificial-general-intelligence-robots-ai-agi-deepmind-google-openai/)
 "OpenAI has said that it wants to be the first to build a machine with human-like reasoning abilities."
@@ -33,7 +20,7 @@ https://www.wired.com/2015/01/the-deep-mind-of-demis-hassabis/
 HYPOTHESIS: IF we create a RL model of Earth and tune parameters such that events play out as it has been recorded in History, then we can be sure that the predictions of future will be of higher accuracy too.
 
 PHILOSOPHICALLY: What is the best good for man? To alleviate suffering?
-
+Job Requirements copy-pasted from LinkedIN for DSAI.
 (1. Bytedance)
 - Major in computer science or a related technical discipline;
 - Highly competent in algorithms and programming, prefer winners in ACMICPC, NOI/IOI, Top coder, and Kaggle;
@@ -78,3 +65,20 @@ PHILOSOPHICALLY: What is the best good for man? To alleviate suffering?
 (6. IBM)
 - For the research scientist role, a PhD in mathematics, computer science or related subject with experience in theory of algorithms, and publications in top tier conferences and journals.
 - Python, C/C++, Java or other programming language
+
+----------------------------------------------
+# Summary of Key Lessons
+
+## 0. Algorithms and Data Structures (ADS)
+Continuing [Part 3 of ADS lectures by MIT[08:43]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/). Irrelevant to ADS, [problem sets 4 and 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/) may be good practice if there is time.
+
+Time Complexity Desirability: O(1) > O(logn) {reduce problem in half each time, bisection seach} > O(n) > O(nlogn) [{Timsort}](https://en.wikipedia.org/wiki/Timsort) > O(n^c) {nested loops} > O(c^n)
+
+## 1. Brute Force Works, Just Not As Well On Big Problems.
+Brute force methods are usually the easiest, first thing to think of. For an example, see two-sum.py. Beyond the initial solution, one should think of answers that help reduce computational time and/or space. This is related to the idea of **space and time complexity.** In the example of two-sum.py, we see that sacrificing some space by saving values into a **dictionary lookup** instead of double for-loops help reduce time complexity from O(n^2) to O(n), 4000ms to 40ms!
+
+## 2. Binary Search Algorithm
+By implementing the low = 0, high = len(array), n = (high - low)//2 and iterating over that, the search space effectively can be halved. This greatly reduces computational time.
+
+## 3. Creativity
+Check out the creative solutions on LeetCode discussion pages!
