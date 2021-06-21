@@ -1,8 +1,6 @@
 # Updates at a glance / what I did today:
-- Restructured this readme.md according to priority.
 - Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
-- Segmented the Methods section of AlphaZERO research paper to dissect.
-- Read "Why?" segment of "Cracking the Coding Interview".
+- Tried to summrize a book into a Graph Database format. Seems to be quite ineffective. Explore further!
 ## Next:
 - [AlphaZERO Paper](https://www.nature.com/articles/nature24270): Go through a few sections of Methods
 - Cracking the Coding Interview: Learn some interesting algorithms that can actually help me use computing for good.
