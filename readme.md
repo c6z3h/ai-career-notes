@@ -1,8 +1,8 @@
 # Updates at a glance / what I did today:
 - Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
-- Tried to summrize a book into a Graph Database format. Seems to be quite ineffective. Explore further!
+- Tried to summrize a book into a Graph Database format. Still trying to find a suitable way to represent the data!
 ## Next:
-- [AlphaZERO Paper](https://www.nature.com/articles/nature24270): Go through a few sections of Methods
+- [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
 - Cracking the Coding Interview: Learn some interesting algorithms that can actually help me use computing for good.
 - Which suit me better, **Managerial** roles or **Technical** roles?
 - Study some anthropology to know how to create better RL models, especially how to model the ever-changing subgoals of living things. Perhaps too, what cause the successful predictive modelling of "Limits to Growth"..
