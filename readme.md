@@ -1,10 +1,10 @@
 # Updates at a glance / what I did today:
 - Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
-- Applied as volunteer for Develop4Good
+- Interview (Preparation) for EntrepreneurFirst: Spent some time to rediscover that side of myself.
+- Studied Neo4j Graph Modelling to find solutions to arrange facts from a book into a Graph Database.
 ## Next:
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
 - Cracking the Coding Interview: Learn some interesting algorithms that can actually help me use computing for good.
-- Find a data format suitable for arranging a book into Graph Database.
 - Which suit me better, **Managerial** roles or **Technical** roles?
 - Study some anthropology to know how to create better RL models, especially how to model the ever-changing subgoals of living things. Perhaps too, what cause the successful predictive modelling of "Limits to Growth"..
 ----------------------------------------------
