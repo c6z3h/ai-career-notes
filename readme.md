@@ -1,9 +1,9 @@
 # Updates at a glance / what I did today:
 - Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
-- Accepted the Mentorship with a Tech pro.
-- Studied Neo4j Graph Modelling to find solutions to arrange facts from a book into a Graph Database.
+- Checked out MiniMaster in Technopreneurship.
 ## Next:
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
+- Build the Book Graph Database
 - Apply to more "Talent Incubators"
 - Cracking the Coding Interview: Learn some interesting algorithms that can actually help me use computing for good.
 - Which suit me better, **Managerial** roles or **Technical** roles?
