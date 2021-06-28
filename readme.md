@@ -1,12 +1,12 @@
 # Updates at a glance / what I did today:
 - Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
-- Checked out MiniMaster in Technopreneurship.
+- Started Udacity AWS ML Course.
+- Sourced Entrepreneur Leads -- found ["CashFlow Clubs"](https://www.richdad.com/cashflow-clubs/find-a-club)
 ## Next:
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
 - Build the Book Graph Database
 - Apply to more "Talent Incubators"
 - Cracking the Coding Interview: Learn some interesting algorithms that can actually help me use computing for good.
-- Which suit me better, **Managerial** roles or **Technical** roles?
 - Study some anthropology to know how to create better RL models, especially how to model the ever-changing subgoals of living things. Perhaps too, what cause the successful predictive modelling of "Limits to Growth"..
 ----------------------------------------------
 # Career Explorations
