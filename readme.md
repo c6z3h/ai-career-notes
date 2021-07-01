@@ -1,11 +1,10 @@
 # Updates at a glance / what I did today:
 - Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
-- Continued Udacity AWS ML Course -- TODAY: Software Engineering Best Practices (GIT/Branch)
-- Contacted ESG and NTUitive to seek entrepreneurial leads.
+- Continued Udacity AWS ML Course -- TODAY: Software Engineering Best Practices (Code Review / Logging)
 ## Next:
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
 - Build the Book Graph Database
-- Apply to more "Talent Incubators"
+- Apply to more "Talent Incubators", StartupSG Network
 - Cracking the Coding Interview: Learn some interesting algorithms that can actually help me use computing for good.
 - Study some anthropology to know how to create better RL models, especially how to model the ever-changing subgoals of living things. Perhaps too, what cause the successful predictive modelling of "Limits to Growth"..
 ----------------------------------------------
