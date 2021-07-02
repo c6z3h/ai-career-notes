@@ -1,6 +1,7 @@
 # Updates at a glance / what I did today:
 - Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
 - Continued Udacity AWS ML Course -- TODAY: Software Engineering Best Practices (Code Review / Logging)
+- Did Book: Think and Grow Rich self-questionnaire
 ## Next:
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
 - Build the Book Graph Database
