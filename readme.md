@@ -1,11 +1,11 @@
 # Updates at a glance / what I did today:
 - Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
-- Continued Udacity AWS ML Course -- TODAY: Software Engineering Best Practices (Code Review / Logging)
+- Continued Udacity AWS ML Course -- TODAY: Object-Oriented Programming (Creating and testing a Class)
 - Did Book: Think and Grow Rich self-questionnaire
 - Searched for Reinforcement Learning jobs, sent Career Coach RL resune.
 ## Next:
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
-- Build the Book Graph Database
+- Tidy up this readme.
 - Apply to more "Talent Incubators", StartupSG Network
 - Cracking the Coding Interview: Learn some interesting algorithms that can actually help me use computing for good.
 - Study some anthropology to know how to create better RL models, especially how to model the ever-changing subgoals of living things. Perhaps too, what cause the successful predictive modelling of "Limits to Growth"..
@@ -67,6 +67,15 @@ Job Requirements copy-pasted from LinkedIN for DSAI.
 - For the research scientist role, a PhD in mathematics, computer science or related subject with experience in theory of algorithms, and publications in top tier conferences and journals.
 - Python, C/C++, Java or other programming language
 
+
+----------------------------------------------
+# Lessons from the Udacity: AWS ML Course 2021
+## 1. Object-Oriented Programming (Python)
+* class, __init__, and self are the basic building blocks of a class.
+## 2. Software Engineering Best Practices
+* Code Review / Logging
+## 3. Machine Learning Theory
+## 4. Machine Learning in AWS (Practical)
 ----------------------------------------------
 # Summary of Key Lessons
 
