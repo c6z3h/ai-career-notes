@@ -72,20 +72,24 @@ Job Requirements copy-pasted from LinkedIN for DSAI.
 # Lessons from the Udacity: AWS ML Course 2021
 ## 1. Object-Oriented Programming (Python)
 * class, __init__, and self are the basic building blocks of a class.
+* Magic Methods ( def __add__(self, other): , return "mean {}, standard deviation {}".format(self.mean, self.stdev) )
+* Inheritance (method and attributes for the parent, children inherit attributes)
 ## 2. Software Engineering Best Practices
 * Code Review / Logging
 ## 3. Machine Learning Theory
 * ML Steps: (1) Define problem (2) Build dataset (3) Train model, minimize loss function (4) Evaluate model (5) Use model / infer
 ## 4. Machine Learning in AWS (Practical)
-*By 2023, spending on AI systems will reach $98B, up 2.5x from 2019. - IDC*
-*By end of 2024, 75% of enterprises will shift from piloting to operationalizing AI. - Gartner*
-*ML is now part of mainstream DevOps process, not isolated projects. - Gartner*
-* AWS pre-trained AI services, just apply without needing knowledge in machine learning (Computer Vision (CV), Reinforcement Learning(RL)).
-### CV
+*By 2023, spending on AI systems will reach $98B, up 2.5x from 2019. - IDC, By end of 2024, 75% of enterprises will shift from piloting to operationalizing AI. - Gartner, ML is now part of mainstream DevOps process, not isolated projects. - Gartner*
+* AWS pre-trained AI services, just apply without needing knowledge in machine learning (Computer Vision (CV), Reinforcement Learning(RL), Generative Adversarial Networks (GAN)).
+### CV - DeepLens
 * Uses -- in identification of polar bears, manual hard-coding of rules is limited as the polar bear may not always face the camera.
 * Tasks -- image classification (classify the whole image), object detection (detect object(s) in a image), semantic segmentation (detect position of objects), activity recognition (video)
-### RL
+### RL - DeepRacer (free trial)
 * Uses -- games frustration-boredom balancer, wind turbine farm downstream airflow optimization.
+* Delete the model to not incur charges!
+### GAN - DeepComposer (free trial)
+* Generator (create new music; with feedback from Discriminator)
+* Discriminator (validate if generated music sounds like real music)
 ----------------------------------------------
 # Summary of Key Lessons
 
