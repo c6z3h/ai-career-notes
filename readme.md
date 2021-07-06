@@ -74,7 +74,10 @@ Job Requirements copy-pasted from LinkedIN for DSAI.
 * class, `__init__`, and self are the basic building blocks of a class.
 * Magic Methods ( `def __add__(self, other):` , `return "mean {}, standard deviation {}".format(self.mean, self.stdev)` )
 * Inheritance (method and attributes for the parent, children inherit attributes)
+* Making a Package, Upload to PyPi
 ## 2. Software Engineering Best Practices
+* Docstrings, Refactoring
+* Test-Driven Development
 * Code Review / Logging
 ## 3. Machine Learning Theory
 * ML Steps: (1) Define problem (2) Build dataset (3) Train model, minimize loss function (4) Evaluate model (5) Use model / infer
