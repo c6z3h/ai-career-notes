@@ -71,8 +71,8 @@ Job Requirements copy-pasted from LinkedIN for DSAI.
 ----------------------------------------------
 # Lessons from the Udacity: AWS ML Course 2021
 ## 1. Object-Oriented Programming (Python)
-* class, __init__, and self are the basic building blocks of a class.
-* Magic Methods ( def __add__(self, other): , return "mean {}, standard deviation {}".format(self.mean, self.stdev) )
+* class, `__init__`, and self are the basic building blocks of a class.
+* Magic Methods ( def `__add__`(self, other): , return "mean {}, standard deviation {}".format(self.mean, self.stdev) )
 * Inheritance (method and attributes for the parent, children inherit attributes)
 ## 2. Software Engineering Best Practices
 * Code Review / Logging
