@@ -1,13 +1,13 @@
 # Updates at a glance / what I did today:
 - Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
-- Continued Udacity AWS ML Course -- TODAY: Machine Learning in AWS
-- Did Book: Think and Grow Rich self-questionnaire
-- Searched for Reinforcement Learning jobs, sent Career Coach RL resune.
+- Applied to 8 RL jobs.
 ## Next:
+- AWS Udacity ML course quiz, PettingZoo multi-agent RL.
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
 - Tidy up this readme.
-- Apply to more "Talent Incubators", StartupSG Network
-- Cracking the Coding Interview: Learn some interesting algorithms that can actually help me use computing for good.
+- Apply to the evergreen "Talent Incubators", Stay connected on StartupSG Network.
+- Send 10 RL job applications per week.
+- Continue Book: Think and Grow Rich self-questionnaire
 - Study some anthropology to know how to create better RL models, especially how to model the ever-changing subgoals of living things. Perhaps too, what cause the successful predictive modelling of "Limits to Growth"..
 ----------------------------------------------
 # Career Explorations
@@ -94,8 +94,7 @@ Job Requirements copy-pasted from LinkedIN for DSAI.
 * Generator (create new music; with feedback from Discriminator)
 * Discriminator (validate if generated music sounds like real music)
 ----------------------------------------------
-# Summary of Key Lessons
-
+# Lessons from LeetCode
 ## 0. Algorithms and Data Structures (ADS)
 Continuing [Part 3 of ADS lectures by MIT[08:43]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/). Irrelevant to ADS, [problem sets 4 and 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/) may be good practice if there is time.
 
