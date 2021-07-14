@@ -9,6 +9,15 @@
 - Continue Book: Think and Grow Rich self-questionnaire
 - Study some anthropology to know how to create better RL models, especially how to model the ever-changing subgoals of living things. Perhaps too, what cause the successful predictive modelling of "Limits to Growth"..
 ----------------------------------------------
+# My Coding Tests
+## 1. AI Singapore: AI Apprentice Test
+## 2. Grab: (1) DevOps, (2) DSAI Test
+## 3. GovTech: Technological Associate Programme Test
+## 4. Shopee: ML Engineer (Fresh Grad) Test, 14 July 2021
+- 2 questions in 60 min, proctored with camera, microphone, screen_share (Glider.AI).
+- Similar to Leetcode Easy / medium.
+- (1) Strings: Substring matching (2) Sort and search: k-th largest integer in array.
+----------------------------------------------
 # Career Explorations
 Target of Artificial General Intelligence (AGI). Why? If done well, it may offer a prediction of our future, and solve problems ahead of our time. We may be able to leap forward eons to reach the stable equilibria that awaits Earthlings at last. NLP, CV are smart, but they are specific to the domain -- [RL may be the backbone](https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/). Printed the DeepMind paper, ["Reward is enough"](https://www.sciencedirect.com/science/article/pii/S0004370221000862),
 
