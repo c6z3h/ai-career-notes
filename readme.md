@@ -1,5 +1,6 @@
 # Updates at a glance / what I did today:
-- Decided to put off LeetCode practice -- algorithms are useful, but to re-evaluate my interests is more important.
+- Alternate-day Leetcode practice (next: Fri 16 Jul)
+- Read Graph Neural Network (GNN). Seems a promising complement to Reinforcement Learning.
 ## Next:
 - AWS Udacity ML course quiz, PettingZoo multi-agent RL.
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
