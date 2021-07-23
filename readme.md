@@ -19,6 +19,7 @@
 - 2 questions in 60 min, proctored with camera, microphone, screen_share (Glider.AI).
 - Similar to Leetcode Easy / medium.
 - (1) Strings: Substring matching (2) Sort and search: k-th largest integer in array.
+## 5. ByteDance: SWE - HBase, tbc
 ----------------------------------------------
 # Career Explorations
 Target of Artificial General Intelligence (AGI). Why? If done well, it may offer a prediction of our future, and solve problems ahead of our time. We may be able to leap forward eons to reach the stable equilibria that awaits Earthlings at last. NLP, CV are smart, but they are specific to the domain -- [RL may be the backbone](https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/). Printed the DeepMind paper, ["Reward is enough"](https://www.sciencedirect.com/science/article/pii/S0004370221000862),
