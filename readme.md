@@ -1,5 +1,5 @@
 # Updates at a glance / what I did today:
-- Alternate-day Leetcode practice (next: Wed 21 Jul)
+- Alternate-day Leetcode practice (next: 25 Jul)
 - Read Graph Neural Network (GNN). Seems a promising complement to Reinforcement Learning.
 - Did more graph network work
 ## Next:
