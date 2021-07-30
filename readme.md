@@ -1,6 +1,5 @@
 # Updates at a glance / what I did today:
-- Alternate-day Leetcode practice (next: 27 Jul)
-- Read Graph Neural Network (GNN). Seems a promising complement to Reinforcement Learning.
+- Alternate-day Leetcode practice
 - More Ontology work
 ## Next:
 - AWS Udacity ML course quiz, PettingZoo multi-agent RL..
