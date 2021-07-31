@@ -1,12 +1,10 @@
 # Updates at a glance / what I did today:
 - Alternate-day Leetcode practice
-- More Ontology work
+- Finding a tutorial on Graph Deep Learning...
 ## Next:
 - AWS Udacity ML course quiz, PettingZoo multi-agent RL..
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
-- Tidy up this readme...
 - Apply to the evergreen "Talent Incubators", Stay connected on StartupSG Network.
-- Send 10 RL job applications per week.
 - Continue Book: Think and Grow Rich self-questionnaire
 - Study some anthropology to know how to create better RL models, especially how to model the ever-changing subgoals of living things. Perhaps too, what cause the successful predictive modelling of "Limits to Growth"..
 ----------------------------------------------
