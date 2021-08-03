@@ -1,6 +1,6 @@
 # Updates at a glance / what I did today:
 - Alternate-day Leetcode practice
-- More Ontology work.
+- More Ontology work {Knowledge Graph Structure: Planning, Implementing, Coding, Testing}
 ## Next:
 - AWS Udacity ML course quiz, PettingZoo multi-agent RL..
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
