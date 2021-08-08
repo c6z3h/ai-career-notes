@@ -29,7 +29,28 @@ https://link.springer.com/article/10.1007/s11023-007-9079-x
 https://www.wired.com/2015/01/the-deep-mind-of-demis-hassabis/
 HYPOTHESIS: IF we create a RL model of Earth and tune parameters such that events play out as it has been recorded in History, then we can be sure that the predictions of future will be of higher accuracy too.
 
-PHILOSOPHICALLY: What is the best good for man? To alleviate suffering?
+PHILOSOPHICALLY: What is the best good for man? To alleviate suffering? **It seems DEEPMIND has such endeavours too.**
+
+## DeepMind AI scholarships (that I qualify for / have to inquire about)
+1. Universidad Los Andes, Colombia [https://cinfonia.uniandes.edu.co/opportunities/the-deepmind-scholarships-2022/]
+2. McGill University [https://giving.mcgill.ca/all-stories/mcgill-welcomes-deepmind-fellows]
+3. U Alberta [https://www.ualberta.ca/folio/2021/02/deepmind-champions-diversity-in-ai-with-new-graduate-scholarship-program-at-u-of-a.html]
+4. U Toronto [https://web.cs.toronto.edu/news-events/news/deepmind-graduate-scholarships]
+5. New York University [https://cds.nyu.edu/masters-financial-aid/]
+6. UCLA [https://sites.google.com/g.ucla.edu/csgsa/fellowships]
+7. UCSD [https://cse.ucsd.edu/graduate/deepmind-fellowships]
+8. Johannesburg [https://www.wits.ac.za/news/latest-news/research-news/2021/2021-05/deepmind-establishes-scholarship-for-four-wits-masters-students-in-machine-learning.html]
+9. Cambridge [https://www.philanthropy.cam.ac.uk/impact-of-giving/gift-announcements/deepmind-to-support-a-further-five-scholarships-for-cambridge]
+10. Imperial London [https://www.imperial.ac.uk/computing/people/deepmind-scholars/]
+11. Oxford [https://www.cs.ox.ac.uk/news/1580-full.html]
+12. University of London [https://www.qmul.ac.uk/scholarships/items/the-deepmind-scholarship.html]
+
+## DeepMind Research Publications and Information
+I suppose their proudest work will be on the homepage[https://deepmind.com/], which will help me get a better idea of what they're working on.
+1. Open-ended Play[https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play]: Reinforcement Learning agent with more general and adaptive behaviour. Agents given a text description of their goals.
+2. AlphaFold
+3. Learning Resources[https://deepmind.com/learning-resources]: DL and RL on Podcast, YouTube and Lecture series.
+----------------------------------------------
 Job Requirements copy-pasted from LinkedIN for DSAI.
 (1. Bytedance)
 - Major in computer science or a related technical discipline;
