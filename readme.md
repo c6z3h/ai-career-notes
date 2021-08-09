@@ -1,4 +1,5 @@
 # Updates at a glance / what I did today:
+- DeepMind Podcast 1: Neuroscience & AI
 - Alternate-day Leetcode practice
 - More Ontology work {Knowledge Graph Structure: Planning, Implementing, Coding, Testing}!!
 - Research on R&D Challenges {Quantifying -- McKinsey metrics}
