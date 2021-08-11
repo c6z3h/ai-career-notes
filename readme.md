@@ -2,7 +2,6 @@
 - DeepMind Podcast 1: Neuroscience & AI
 - Alternate-day Leetcode practice
 - More Ontology work {Knowledge Graph Structure: Planning, Implementing, Coding, Testing}!!
-- Ontology updates
 ## Next:
 - AWS Udacity ML course quiz, PettingZoo multi-agent RL..
 - [AlphaZERO Paper: Methods](https://www.nature.com/articles/nature24270): What is MCTS??
