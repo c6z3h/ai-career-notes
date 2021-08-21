@@ -1,7 +1,7 @@
 # Updates at a glance:
 - Weekly Leetcode Contest Rank: 6463 / 13755
 - DeepMind Podcast: 1 - Neuroscience & AI
-- Daily Leetcode Challenge!
+- Daily Leetcode Challenge! + Weeklys!
 - More Ontology work {Knowledge Graph Structure: Planning, Implementing, Coding, Testing}!!
 ## Next:
 - AWS Udacity ML course quiz, PettingZoo multi-agent RL..
