@@ -1,6 +1,7 @@
-### This repo mostly consist of Brute Force Solutions and comments, hope it could be useful to someone's interview prep!
+### This repo mostly consist of Brute Force Solutions and comments, hope it's useful to someone's interview prep!
 
 Source: https://techinterviewhandbook.org/best-practice-questions/ to quickly learn up the essentials.
+
 Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can search it on YouTube.
 
 # Week 1: Arrays and Strings
