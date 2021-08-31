@@ -14,3 +14,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 7. (Medium/D3) Merge Intervals:                      Array, Sort
 8. (Medium/D3) Group Anagrams:                       HashTable, Sort, String
 9. (Easy/D4) Maximum Subarray:                       (retry)
+
+## Endnotes:
+### (Dynamic Programming)[https://www.geeksforgeeks.org/dynamic-programming/]:
+Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later.
