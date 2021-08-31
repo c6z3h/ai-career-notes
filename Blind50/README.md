@@ -16,6 +16,9 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 9. (Easy/D4) Maximum Subarray:                       (retry)
 10. (Medium/D4) 3 Sum:                               (Time Limit Exceeded)
 
+# Week 2: Data Structures
+1.
+
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
 Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later.
