@@ -9,11 +9,12 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 2. (Easy/D1) Contains Duplicate:                     Sort, HashMap / Set
 3. (Easy/D2) Valid Anagram:                          HashTable, Sort, String
 4. (Easy/D4) Best Time to Buy and Sell Stock:        Array, Dynamic Programming
-5. (Easy/D2) Valid Parenthesis:                      (retry)
-6. (Medium/D2) Product of Array Except Self:         (retry)
+5. (Easy/D2) Valid Parenthesis:                      Stack
+6. (Medium/D2) Product of Array Except Self:         Array, Prefix Sum
 7. (Medium/D3) Merge Intervals:                      Array, Sort
 8. (Medium/D3) Group Anagrams:                       HashTable, Sort, String
 9. (Easy/D4) Maximum Subarray:                       (retry)
+10. (Medium/D4) 3 Sum:                               (Time Limit Exceeded)
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
