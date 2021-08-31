@@ -17,7 +17,10 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 10. (Medium/D4) 3 Sum:                               (Time Limit Exceeded)
 
 # Week 2: Data Structures
-1.
+1. (Easy/D4) Reverse a Linked List:                   (retry)
+2. (Medium/D4) Container with Most Water:             (retry)
+3. (Medium/D4) Remove Nth Node From End of List:      (retry)
+
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
