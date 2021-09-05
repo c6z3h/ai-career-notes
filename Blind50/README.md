@@ -20,9 +20,9 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 1. (Easy/D4) Reverse a Linked List:                   (retry)
 2. (Medium/D4) Container with Most Water:             (retry)
 3. (Medium/D4) Remove Nth Node From End of List:      (retry)
-4. (Medium/D5) Find Minimum in Rotated Sorted Array   Array, 🧙‍ Binary Search
+4. (Medium/D5) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 5. (Medium/D5) Longest Repeating Character Replacement  (retry)
-6. (Medium/D5) Longest Substring Without Repeating Characters String, HashTable, 🧙‍ Sliding Window
+6. (Medium/D5) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 7. (Hard/D5) Minimum Window Substring                 (retry)
 
 # Week 3: Non-Linear Data Structures
