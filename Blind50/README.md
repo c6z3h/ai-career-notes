@@ -33,7 +33,8 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 1. (Medium/D5) Top K Frequent Elements                (lucky!)
 2. (Easy/D6) Invert Binary Tree                       (almost!)
 3. (Medium/D6) Validate Binary Search Tree            (retry)
-
+4. (Medium/D6) Clone Graph
+5. (Medium/D6) Non-overlapping Intervals
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
