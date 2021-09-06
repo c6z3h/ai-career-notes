@@ -17,10 +17,10 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 10. (Medium/D4) 3 Sum:                               (Time Limit Exceeded)
 
 # Week 2: Data Structures
-1. (Easy/D4) Reverse a Linked List:                   (retry)
+1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
 2. (Medium/D4) Container with Most Water:             (retry)
 3. (Medium/D4) Remove Nth Node From End of List:      (retry)
-4. (Easy/D5) Linked List Cycle (retry)
+4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
 5. (Medium/D5) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 6. (Medium/D5) Longest Repeating Character Replacement  (retry)
 7. (Medium/D5) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
@@ -31,6 +31,8 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 
 # Week 3: Non-Linear Data Structures
 1. (Medium/D5) Top K Frequent Elements                (lucky!)
+2. (Easy/D6) Invert Binary Tree                       (almost!)
+3. (Medium/D6) Validate Binary Search Tree            (retry)
 
 
 ## Endnotes:
