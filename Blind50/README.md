@@ -14,15 +14,15 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 7. (Medium/D3) Merge Intervals:                      Array, Sort
 8. (Medium/D3) Group Anagrams:                       HashTable, Sort, String
 9. (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
-10. (Medium/D6) 3 Sum:                               (Time Limit Exceeded)
+10. (Medium/D7) 3 Sum:                               (Time Limit Exceeded)
 
 # Week 2: Data Structures
 1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
 2. (Medium/D7) Container with Most Water:             (retry)
-3. (Medium/D4) Remove Nth Node From End of List:      (retry)
+3. (Medium/D7) Remove Nth Node From End of List:      (retry)
 4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
 5. (Medium/D5) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
-6. (Medium/D5) Longest Repeating Character Replacement  (retry)
+6. (Medium/D7) Longest Repeating Character Replacement  (retry)
 7. (Medium/D5) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 8. (Hard/D5) Minimum Window Substring                 (retry)
 9. (Medium/D5) Palindromic Substrings
@@ -31,11 +31,18 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 
 # Week 3: Non-Linear Data Structures
 1. (Medium/D5) Top K Frequent Elements                (lucky!)
-2. (Easy/D6) Invert Binary Tree                       (almost!)
+2. (Easy/D7) Invert Binary Tree                       (almost!)
 3. (Medium/D6) Validate Binary Search Tree            (retry)
-4. (Medium/D6) Clone Graph
-5. (Medium/D6) Non-overlapping Intervals
+4. (Medium/D6) Clone Graph:
+5. (Medium/D6) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
+6. (Medium/D7) Course Schedule:
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
 Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later.
+
+### [Linked List]
+
+### [Depth-First Search]
+
+### [Binary Tree]
