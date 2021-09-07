@@ -21,9 +21,9 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 2. (Medium/D7) Container with Most Water:             (retry)
 3. (Medium/D7) Remove Nth Node From End of List:      (retry)
 4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
-5. (Medium/D5) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
+5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 6. (Medium/D7) Longest Repeating Character Replacement  (retry)
-7. (Medium/D5) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
+7. (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 8. (Hard/D5) Minimum Window Substring                 (retry)
 9. (Medium/D5) Palindromic Substrings
 10. (Medium/D7) Number of Islands:
@@ -34,7 +34,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 2. (Easy/D7) Invert Binary Tree                       (almost!)
 3. (Medium/D6) Validate Binary Search Tree            (retry)
 4. (Medium/D6) Clone Graph:
-5. (Medium/D6) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
+5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
 6. (Medium/D7) Course Schedule:
 
 ## Endnotes:
