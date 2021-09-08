@@ -14,12 +14,12 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 7. (Medium/D3) Merge Intervals:                      Array, Sort
 8. (Medium/D3) Group Anagrams:                       HashTable, Sort, String
 9. (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
-10. (Medium/D8) 3 Sum:                               Array, Sort, Two Pointers
+10. (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer
 
 # Week 2: Data Structures
 1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
-2. (Medium/D8) Container with Most Water:             (retry)
-3. (Medium/D8) Remove Nth Node From End of List:      (retry)
+2. (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
+3. (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer
 4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
 5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 6. (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
