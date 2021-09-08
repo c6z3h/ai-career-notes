@@ -14,23 +14,23 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 7. (Medium/D3) Merge Intervals:                      Array, Sort
 8. (Medium/D3) Group Anagrams:                       HashTable, Sort, String
 9. (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
-10. (Medium/D7) 3 Sum:                               (Time Limit Exceeded)
+10. (Medium/D8) 3 Sum:                               Array, Sort, Two Pointers
 
 # Week 2: Data Structures
 1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
-2. (Medium/D7) Container with Most Water:             (retry)
-3. (Medium/D7) Remove Nth Node From End of List:      (retry)
+2. (Medium/D8) Container with Most Water:             (retry)
+3. (Medium/D8) Remove Nth Node From End of List:      (retry)
 4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
 5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
-6. (Medium/D7) Longest Repeating Character Replacement  (retry)
+6. (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
 7. (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 8. (Hard/D5) Minimum Window Substring                 (retry)
 9. (Medium/D5) Palindromic Substrings
-10. (Medium/D7) Number of Islands:
+10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
 11. (Medium/D5) Pacific Atlantic Water Flow
 
 # Week 3: Non-Linear Data Structures
-1. (Medium/D5) Top K Frequent Elements                (lucky!)
+1. (Medium/D8) Top K Frequent Elements                (lucky!)
 2. (Easy/D7) Invert Binary Tree                       (almost!)
 3. (Medium/D6) Validate Binary Search Tree            (retry)
 4. (Medium/D6) Clone Graph:
