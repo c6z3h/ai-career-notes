@@ -41,8 +41,6 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
 Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later.
 
-### [Linked List]
-
+### [Binary Tree](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/):
+### [Linked List](https://www.geeksforgeeks.org/linked-list-set-1-introduction/):
 ### [Depth-First Search]
-
-### [Binary Tree]
