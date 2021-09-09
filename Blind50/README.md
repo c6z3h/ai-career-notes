@@ -7,12 +7,12 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 # Week 1: Arrays and Strings
 1. (Easy/D1) Two Sum:                                Array, HashMap
 2. (Easy/D1) Contains Duplicate:                     Sort, HashMap / Set
-3. (Easy/D2) Valid Anagram:                          HashTable, Sort, String
+3. (Easy/D2) Valid Anagram:                          String, Sort, HashTable
 4. (Easy/D4) Best Time to Buy and Sell Stock:        Array, Dynamic Programming
 5. (Easy/D4) Valid Parenthesis:                      Stack
 6. (Medium/D4) Product of Array Except Self:         Array, Prefix Sum
 7. (Medium/D3) Merge Intervals:                      Array, Sort
-8. (Medium/D3) Group Anagrams:                       HashTable, Sort, String
+8. (Medium/D3) Group Anagrams:                       String, Sort, HashTable
 9. (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
 10. (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer
 
@@ -25,18 +25,23 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 6. (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
 7. (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 8. (Hard/D5) Minimum Window Substring:                
-9. (Medium/D9) Palindromic Substrings:                (retry)
+9. (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
 10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
-11. (Medium/D5) Pacific Atlantic Water Flow
+11. (Medium/D5) Pacific Atlantic Water Flow           (retry)
 
 # Week 3: Non-Linear Data Structures
-1. (Medium/D8) Top K Frequent Elements                
-2. (Easy/D9) Invert Binary Tree:                      (retry)                       
+1. (Medium/D8) Top K Frequent Elements                (retry)
+2. (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS
 3. (Medium/D9) Validate Binary Search Tree:           (retry)
-4. (Medium/D6) Clone Graph:
+4. (Medium/D6) Clone Graph:                           (review)
 5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
 6. (Medium/D7) Course Schedule:
-7. (Hard/D9) Binary Tree Maximum Path Sum:            (retry)
+7. (Hard/D9) Binary Tree Maximum Path Sum:            
+
+# Week 4: More Data Structures
+1. (Hard/D9) Merge k Sorted Lists
+2. (Medium/D9) Insert Interval
+3. (Hard/D9) Find Median from Data Stream
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
