@@ -24,18 +24,19 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 6. (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
 7. (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
-8. (Hard/D5) Minimum Window Substring                 (retry)
-9. (Medium/D5) Palindromic Substrings
+8. (Hard/D5) Minimum Window Substring:                
+9. (Medium/D9) Palindromic Substrings:                (retry)
 10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
 11. (Medium/D5) Pacific Atlantic Water Flow
 
 # Week 3: Non-Linear Data Structures
-1. (Medium/D8) Top K Frequent Elements                (lucky!)
-2. (Easy/D7) Invert Binary Tree                       (almost!)
-3. (Medium/D6) Validate Binary Search Tree            (retry)
+1. (Medium/D8) Top K Frequent Elements                
+2. (Easy/D9) Invert Binary Tree:                      (retry)                       
+3. (Medium/D9) Validate Binary Search Tree:           (retry)
 4. (Medium/D6) Clone Graph:
 5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
 6. (Medium/D7) Course Schedule:
+7. (Hard/D9) Binary Tree Maximum Path Sum:            (retry)
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
