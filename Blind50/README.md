@@ -33,20 +33,22 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 1. (Medium/D8) Top K Frequent Elements                (retry)
 2. (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS
 3. (Medium/D10) Validate Binary Search Tree:           (retry)
-4. (Medium/D10) Clone Graph:                           (review)
+4. (Medium/D11) Clone Graph:                          HashTable, DFS, Graph
 5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
-6. (Medium/D10) Course Schedule:
+6. (Medium/D11) Course Schedule:
 7. (Hard/D9) Binary Tree Maximum Path Sum:            
+8. (Medium/D11) Construct Binary Tree from Preorder and Inorder Traversal:
 
 # Week 4: More Data Structures
 1. (Hard/D9) Merge k Sorted Lists
 2. (Medium/D10) Insert Interval
-3. (Hard/D9) Find Median from Data Stream
+3. (Hard/D11) Find Median from Data Stream:
 4. (Medium/D10) Kth Smallest Element in a BST:      BST, DFS
 5. (Medium/D10) Longest Consecutive Sequence:       
 6. (Easy/D10) Lowest Common Ancestor of a BST:      
 7. (Easy/D10) Subtree of Another Tree:              
-8. 
+8. (Medium/D11) Implement Trie:
+9. (Medium/D11) Design Add and Search Words Data Structure:
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
