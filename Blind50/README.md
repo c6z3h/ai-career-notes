@@ -38,6 +38,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 6. (Medium/D11) Course Schedule:
 7. (Hard/D9) Binary Tree Maximum Path Sum:            
 8. (Medium/D11) Construct Binary Tree from Preorder and Inorder Traversal:
+9. (Hard/?) Serialize and Deserialize Binary Tree
 
 # Week 4: More Data Structures
 1. (Hard/D9) Merge k Sorted Lists
@@ -49,6 +50,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 7. (Easy/D10) Subtree of Another Tree:              
 8. (Medium/D11) Implement Trie:
 9. (Medium/D11) Design Add and Search Words Data Structure:
+10. (Hard/?) Word Search II
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
