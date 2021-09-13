@@ -30,9 +30,9 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 11. (Medium/D5) Pacific Atlantic Water Flow           (retry)
 
 # Week 3: Non-Linear Data Structures
-1. (Medium/D8) Top K Frequent Elements                (retry)
+1. (Medium/D12) Top K Frequent Elements               Array, HashTable, ...
 2. (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS
-3. (Medium/D10) Validate Binary Search Tree:           (retry)
+3. (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS
 4. (Medium/D11) Clone Graph:                          HashTable, DFS, Graph
 5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
 6. (Medium/D11) Course Schedule:
@@ -44,11 +44,11 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 1. (Hard/D9) Merge k Sorted Lists
 2. (Medium/D10) Insert Interval
 3. (Hard/D11) Find Median from Data Stream:
-4. (Medium/D10) Kth Smallest Element in a BST:      BST, DFS
+4. (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
 5. (Medium/D10) Longest Consecutive Sequence:       
 6. (Easy/D10) Lowest Common Ancestor of a BST:      
 7. (Easy/D10) Subtree of Another Tree:              
-8. (Medium/D11) Implement Trie:
+8. (Medium/D12) Implement Trie:                     HashTable, Trie
 9. (Medium/D11) Design Add and Search Words Data Structure:
 10. (Hard/D11) Word Search II
 
