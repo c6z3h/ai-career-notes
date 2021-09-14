@@ -24,7 +24,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 6. (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
 7. (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
-8. (Hard/D13) Minimum Window Substring:                
+8. (Hard/D13) Minimum Window Substring:               (retry)
 9. (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
 10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
 11. (Medium/D13) Pacific Atlantic Water Flow           (retry)
@@ -35,7 +35,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 3. (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS
 4. (Medium/D11) Clone Graph:                          HashTable, DFS, Graph
 5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
-6. (Medium/D11) Course Schedule:
+6. (Medium/D11) Course Schedule:                      (study)
 7. (Hard/D9) Binary Tree Maximum Path Sum:            
 8. (Medium/D11) Construct Binary Tree from Preorder and Inorder Traversal:
 9. (Hard/D11) Serialize and Deserialize Binary Tree
@@ -43,10 +43,10 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 # Week 4: More Data Structures
 1. (Hard/D9) Merge k Sorted Lists
 2. (Medium/D10) Insert Interval
-3. (Hard/D11) Find Median from Data Stream:
+3. (Hard/D11) Find Median from Data Stream:         (study)
 4. (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
-5. (Medium/D10) Longest Consecutive Sequence:       
-6. (Easy/D13) Lowest Common Ancestor of a BST:      
+5. (Medium/D10) Longest Consecutive Sequence:       (study)
+6. (Easy/D13) Lowest Common Ancestor of a BST:      (retry)
 7. (Easy/D10) Subtree of Another Tree:              
 8. (Medium/D12) Implement Trie:                     HashTable, Trie
 9. (Medium/D11) Design Add and Search Words Data Structure:
