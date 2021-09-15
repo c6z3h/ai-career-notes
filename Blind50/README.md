@@ -27,7 +27,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 8. (Hard/D13) Minimum Window Substring:               (retry)
 9. (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
 10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
-11. (Medium/D13) Pacific Atlantic Water Flow           (retry)
+11. (Medium/D14) Pacific Atlantic Water Flow           (retry)
 
 # Week 3: Non-Linear Data Structures
 1. (Medium/D12) Top K Frequent Elements               Array, HashTable, ...
@@ -46,7 +46,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 3. (Hard/D11) Find Median from Data Stream:         (study)
 4. (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
 5. (Medium/D10) Longest Consecutive Sequence:       (study)
-6. (Easy/D13) Lowest Common Ancestor of a BST:      (retry)
+6. (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
 7. (Easy/D10) Subtree of Another Tree:              
 8. (Medium/D12) Implement Trie:                     HashTable, Trie
 9. (Medium/D11) Design Add and Search Words Data Structure:
