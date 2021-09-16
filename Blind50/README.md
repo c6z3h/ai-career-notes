@@ -43,11 +43,11 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 # Week 4: More Data Structures
 1. (Hard/D9) Merge k Sorted Lists
 2. (Medium/D10) Insert Interval
-3. (Hard/D11) Find Median from Data Stream:         (study)
+3. (Hard/D15) Find Median from Data Stream:         (try)
 4. (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
-5. (Medium/D10) Longest Consecutive Sequence:       (study)
+5. (Medium/D15) Longest Consecutive Sequence:       (try)
 6. (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
-7. (Easy/D10) Subtree of Another Tree:              
+7. (Easy/D10) Subtree of Another Tree:              (study)
 8. (Medium/D12) Implement Trie:                     HashTable, Trie
 9. (Medium/D11) Design Add and Search Words Data Structure:
 10. (Hard/D11) Word Search II
