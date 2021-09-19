@@ -36,8 +36,8 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 4. (Medium/D11) Clone Graph:                          HashTable, DFS, Graph
 5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
 6. (Medium/D18) Course Schedule:                      DFS, Graph, 🧙‍ Topological Sort
-7. (Hard/D9) Binary Tree Maximum Path Sum:            (?)
-8. (Medium/D11) Construct Binary Tree from Preorder and Inorder Traversal: (?)
+7. (Hard/D18) Binary Tree Maximum Path Sum:           Binary Tree, DFS, Dynamic Programming
+8. (Medium/D18) Construct Binary Tree from Preorder and Inorder Traversal: Binary Tree
 9. (Hard/D18) Serialize and Deserialize Binary Tree:  String, Binary Tree, DFS
 
 # Week 4: More Data Structures
