@@ -24,7 +24,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 6. (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
 7. (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
-8. (Hard/D13) Minimum Window Substring:               (?)
+8. (Hard/D18) Minimum Window Substring:               String, HashTable, Sliding Window
 9. (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
 10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
 11. (Medium/D17) Pacific Atlantic Water Flow:         Matrix, DFS
@@ -41,16 +41,16 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 9. (Hard/D18) Serialize and Deserialize Binary Tree:  String, Binary Tree, DFS
 
 # Week 4: More Data Structures
-1. (Hard/D9) Merge k Sorted Lists:                  (?)
-2. (Medium/D10) Insert Interval:                    (?)
+1. (Hard/D18) Merge k Sorted Lists:                 Linked List, 🧙‍ Merge Sort
+2. (Medium/D18) Insert Interval:                    Array
 3. (Hard/D16) Find Median from Data Stream:         Heap, Data Stream
 4. (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
 5. (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
 6. (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
 7. (Easy/D18) Subtree of Another Tree:              Tree, DFS
 8. (Medium/D12) Implement Trie:                     HashTable, Trie
-9. (Medium/D11) Design Add and Search Words Data Structure: (?)
-10. (Hard/D11) Word Search II:                      (?)
+9. (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS
+10. (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
