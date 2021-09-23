@@ -5,16 +5,16 @@ Source: https://techinterviewhandbook.org/best-practice-questions/ to quickly le
 Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can search it on YouTube.
 
 # Week 1: Arrays and Strings
-1. (Easy/D1) Two Sum:                                Array, HashMap
+1. (Easy/D1) Two Sum:                                Array, HashMap*
 2. (Easy/D1) Contains Duplicate:                     Sort, HashMap / Set
-3. (Easy/D2) Valid Anagram:                          String, Sort, HashTable
-4. (Easy/D4) Best Time to Buy and Sell Stock:        Array, Dynamic Programming
-5. (Easy/D4) Valid Parenthesis:                      Stack
+3. (Easy/D2) Valid Anagram:                          String, Sort, HashTable*
+4. (Easy/D4) Best Time to Buy and Sell Stock:        Array, Dynamic Programming*
+5. (Easy/D4) Valid Parenthesis:                      Stack*
 6. (Medium/D4) Product of Array Except Self:         Array, Prefix Sum
 7. (Medium/D3) Merge Intervals:                      Array, Sort
-8. (Medium/D3) Group Anagrams:                       String, Sort, HashTable
-9. (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
-10. (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer
+8. (Medium/D3) Group Anagrams:                       String, Sort, HashTable-
+9. (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm*
+10. (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer*
 
 # Week 2: Data Structures
 1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
