@@ -17,7 +17,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 10. (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer*
 
 # Week 2: Data Structures
-1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
+1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion*
 2. (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
 3. (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer
 4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
