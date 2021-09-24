@@ -20,7 +20,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion*
 2. (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
 3. (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer
-4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
+4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer*
 5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 6. (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
 7. (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
