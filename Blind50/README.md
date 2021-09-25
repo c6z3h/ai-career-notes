@@ -19,7 +19,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 # Week 2: Data Structures
 1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion*
 2. (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
-3. (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer
+3. (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer*
 4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer*
 5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 6. (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
@@ -27,11 +27,11 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 8. (Hard/D18) Minimum Window Substring:               String, HashTable, Sliding Window
 9. (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
 10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
-11. (Medium/D17) Pacific Atlantic Water Flow:         Matrix, DFS
+11. (Medium/D17) Pacific Atlantic Water Flow:         Matrix, DFS*
 
 # Week 3: Non-Linear Data Structures
 1. (Medium/D12) Top K Frequent Elements:              Array, HashTable, ...
-2. (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS
+2. (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS*
 3. (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS
 4. (Medium/D11) Clone Graph:                          HashTable, DFS, Graph
 5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
@@ -46,8 +46,8 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 3. (Hard/D16) Find Median from Data Stream:         Heap, Data Stream
 4. (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
 5. (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
-6. (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
-7. (Easy/D18) Subtree of Another Tree:              Tree, DFS
+6. (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS*
+7. (Easy/D18) Subtree of Another Tree:              Tree, DFS-
 8. (Medium/D12) Implement Trie:                     HashTable, Trie
 9. (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS
 10. (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
