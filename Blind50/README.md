@@ -6,7 +6,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 
 # Week 1: Arrays and Strings
 1. (Easy/D1) Two Sum:                                Array, HashMap*
-2. (Easy/D1) Contains Duplicate:                     Sort, HashMap / Set
+2. (Easy/D1) Contains Duplicate:                     Sort, HashMap / Set*
 3. (Easy/D2) Valid Anagram:                          String, Sort, HashTable*
 4. (Easy/D4) Best Time to Buy and Sell Stock:        Array, Dynamic Programming*
 5. (Easy/D4) Valid Parenthesis:                      Stack*
@@ -26,13 +26,13 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 7. (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 8. (Hard/D18) Minimum Window Substring:               String, HashTable, Sliding Window
 9. (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
-10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
+10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find*
 11. (Medium/D17) Pacific Atlantic Water Flow:         Matrix, DFS*
 
 # Week 3: Non-Linear Data Structures
 1. (Medium/D12) Top K Frequent Elements:              Array, HashTable, ...
 2. (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS*
-3. (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS
+3. (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS-
 4. (Medium/D11) Clone Graph:                          HashTable, DFS, Graph
 5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
 6. (Medium/D18) Course Schedule:                      DFS, Graph, 🧙‍ Topological Sort
@@ -47,7 +47,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 4. (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
 5. (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
 6. (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS*
-7. (Easy/D18) Subtree of Another Tree:              Tree, DFS-
+7. (Easy/D18) Subtree of Another Tree:              Tree, DFS*
 8. (Medium/D12) Implement Trie:                     HashTable, Trie
 9. (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS
 10. (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
