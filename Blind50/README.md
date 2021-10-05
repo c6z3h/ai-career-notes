@@ -18,7 +18,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 
 # Week 2: Data Structures
 1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion*
-2. (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
+2. (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy*
 3. (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer*
 4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer*
 5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
@@ -48,7 +48,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 5. (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
 6. (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS*
 7. (Easy/D18) Subtree of Another Tree:              Tree, DFS*
-8. (Medium/D12) Implement Trie:                     HashTable, Trie
+8. (Medium/D12) Implement Trie:                     HashTable, Trie-
 9. (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS
 10. (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
 
