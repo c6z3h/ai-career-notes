@@ -3,3 +3,4 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 - [x] Search in a Rotated Sorted Array
 - [ ] Spiral Matrix (1 attempt)
+- [ ] Rotate Image (1 attempt)
