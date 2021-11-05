@@ -26,13 +26,13 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [ ] (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 - [ ] (Hard/D18) Minimum Window Substring:               String, HashTable, Sliding Window
 - [ ] (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
-- [ ] (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
+- [x] (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
 - [ ] (Medium/D17) Pacific Atlantic Water Flow:         Matrix, DFS
 
 # Week 3: Non-Linear Data Structures
 - [ ] (Medium/D12) Top K Frequent Elements:              Array, HashTable, ...
 - [ ] (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS
-- [ ] (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS
+- [x] (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS
 - [ ] (Medium/D11) Clone Graph:                          HashTable, DFS, Graph
 - [ ] (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
 - [ ] (Medium/D18) Course Schedule:                      DFS, Graph, 🧙‍ Topological Sort
