@@ -10,11 +10,11 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Easy/D2) Valid Anagram:                          String, Sort, HashTable
 - [x] (Easy/D4) Best Time to Buy and Sell Stock:        Array, Dynamic Programming
 - [ ] (Easy/D4) Valid Parenthesis:                      Stack
-- [ ] (Medium/D4) Product of Array Except Self:         Array, Prefix Sum
+- [x] (Medium/D4) Product of Array Except Self:         Array, Prefix Sum
 - [ ] (Medium/D3) Merge Intervals:                      Array, Sort
 - [ ] (Medium/D3) Group Anagrams:                       String, Sort, HashTable
 - [ ] (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
-- [ ] (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer
+- [x] (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer
 
 # Week 2: Data Structures
 - [ ] (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
