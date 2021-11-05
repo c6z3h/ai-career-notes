@@ -10,3 +10,5 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 - [ ] Maximum Product Subarray
 - [ ] Four Sum
+- [ ] Trapping Rain Water (see: [Monotonic Stack](https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8))
+- [x] Swapping Nodes in a Linked List
