@@ -12,3 +12,5 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [ ] Four Sum
 - [ ] Trapping Rain Water (see: [Monotonic Stack](https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8))
 - [x] Swapping Nodes in a Linked List
+- [x] Max Area of Island
+- [x] Find Mode in BST
