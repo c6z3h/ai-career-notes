@@ -5,52 +5,52 @@ Source: https://techinterviewhandbook.org/best-practice-questions/ to quickly le
 Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can search it on YouTube.
 
 # Week 1: Arrays and Strings
-1. (Easy/D1) Two Sum:                                Array, HashMap*
-2. (Easy/D1) Contains Duplicate:                     Sort, HashMap / Set*
-3. (Easy/D2) Valid Anagram:                          String, Sort, HashTable*
-4. (Easy/D4) Best Time to Buy and Sell Stock:        Array, Dynamic Programming*
-5. (Easy/D4) Valid Parenthesis:                      Stack*
-6. (Medium/D4) Product of Array Except Self:         Array, Prefix Sum
-7. (Medium/D3) Merge Intervals:                      Array, Sort
-8. (Medium/D3) Group Anagrams:                       String, Sort, HashTable-
-9. (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm*
-10. (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer*
+[x] (Easy/D1) Two Sum:                                Array, HashMap
+[x] (Easy/D1) Contains Duplicate:                     Sort, HashMap / Set
+[x] (Easy/D2) Valid Anagram:                          String, Sort, HashTable
+[x] (Easy/D4) Best Time to Buy and Sell Stock:        Array, Dynamic Programming
+[ ] (Easy/D4) Valid Parenthesis:                      Stack
+[ ] (Medium/D4) Product of Array Except Self:         Array, Prefix Sum
+[ ] (Medium/D3) Merge Intervals:                      Array, Sort
+[ ] (Medium/D3) Group Anagrams:                       String, Sort, HashTable
+[ ] (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
+[ ] (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer
 
 # Week 2: Data Structures
-1. (Easy/D6) Reverse a Linked List:                   Linked List, Recursion*
-2. (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy*
-3. (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer*
-4. (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer*
-5. (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
-6. (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
-7. (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
-8. (Hard/D18) Minimum Window Substring:               String, HashTable, Sliding Window
-9. (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
-10. (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find*
-11. (Medium/D17) Pacific Atlantic Water Flow:         Matrix, DFS*
+[ ] (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
+[ ] (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
+[ ] (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer
+[ ] (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
+[ ] (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
+[ ] (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
+[ ] (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
+[ ] (Hard/D18) Minimum Window Substring:               String, HashTable, Sliding Window
+[ ] (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
+[ ] (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
+[ ] (Medium/D17) Pacific Atlantic Water Flow:         Matrix, DFS
 
 # Week 3: Non-Linear Data Structures
-1. (Medium/D12) Top K Frequent Elements:              Array, HashTable, ...
-2. (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS*
-3. (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS-
-4. (Medium/D11) Clone Graph:                          HashTable, DFS, Graph
-5. (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
-6. (Medium/D18) Course Schedule:                      DFS, Graph, 🧙‍ Topological Sort
-7. (Hard/D18) Binary Tree Maximum Path Sum:           Binary Tree, DFS, Dynamic Programming
-8. (Medium/D18) Construct Binary Tree from Preorder and Inorder Traversal: Binary Tree
-9. (Hard/D18) Serialize and Deserialize Binary Tree:  String, Binary Tree, DFS
+[ ] (Medium/D12) Top K Frequent Elements:              Array, HashTable, ...
+[ ] (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS
+[ ] (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS
+[ ] (Medium/D11) Clone Graph:                          HashTable, DFS, Graph
+[ ] (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
+[ ] (Medium/D18) Course Schedule:                      DFS, Graph, 🧙‍ Topological Sort
+[ ] (Hard/D18) Binary Tree Maximum Path Sum:           Binary Tree, DFS, Dynamic Programming
+[ ] (Medium/D18) Construct Binary Tree from Preorder and Inorder Traversal: Binary Tree
+[ ] (Hard/D18) Serialize and Deserialize Binary Tree:  String, Binary Tree, DFS
 
 # Week 4: More Data Structures
-1. (Hard/D18) Merge k Sorted Lists:                 Linked List, 🧙‍ Merge Sort
-2. (Medium/D18) Insert Interval:                    Array
-3. (Hard/D16) Find Median from Data Stream:         Heap, Data Stream
-4. (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
-5. (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
-6. (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS*
-7. (Easy/D18) Subtree of Another Tree:              Tree, DFS*
-8. (Medium/D12) Implement Trie:                     HashTable, Trie-
-9. (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS
-10. (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
+[ ] (Hard/D18) Merge k Sorted Lists:                 Linked List, 🧙‍ Merge Sort
+[ ] (Medium/D18) Insert Interval:                    Array
+[ ] (Hard/D16) Find Median from Data Stream:         Heap, Data Stream
+[ ] (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
+[ ] (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
+[ ] (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
+[ ] (Easy/D18) Subtree of Another Tree:              Tree, DFS
+[ ] (Medium/D12) Implement Trie:                     HashTable, Trie
+[ ] (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS
+[ ] (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
