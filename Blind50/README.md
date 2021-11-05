@@ -18,8 +18,8 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 
 # Week 2: Data Structures
 - [ ] (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
-- [ ] (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
-- [ ] (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer
+- [x] (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
+- [x] (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer
 - [ ] (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
 - [ ] (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 - [ ] (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
