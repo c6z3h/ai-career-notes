@@ -8,3 +8,5 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 # Extra practice
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+- [ ] Maximum Product Subarray
+- [ ] Four Sum
