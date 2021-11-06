@@ -12,7 +12,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [ ] (Easy/D4) Valid Parenthesis:                      Stack
 - [x] (Medium/D4) Product of Array Except Self:         Array, Prefix Sum
 - [ ] (Medium/D3) Merge Intervals:                      Array, Sort
-- [ ] (Medium/D3) Group Anagrams:                       String, Sort, HashTable
+- [x] (Medium/D3) Group Anagrams:                       String, Sort, HashTable
 - [ ] (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
 - [x] (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer
 
@@ -20,9 +20,9 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [ ] (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
 - [x] (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
 - [x] (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer
-- [ ] (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
+- [x] (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
 - [ ] (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
-- [ ] (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
+- [x] (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
 - [ ] (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 - [ ] (Hard/D18) Minimum Window Substring:               String, HashTable, Sliding Window
 - [ ] (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
