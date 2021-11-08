@@ -45,10 +45,10 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [ ] (Medium/D18) Insert Interval:                    Array
 - [ ] (Hard/D16) Find Median from Data Stream:         Heap, Data Stream
 - [ ] (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
-- [ ] (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
+- [x] (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
 - [ ] (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
 - [ ] (Easy/D18) Subtree of Another Tree:              Tree, DFS
-- [ ] (Medium/D12) Implement Trie:                     HashTable, Trie
+- [x] (Medium/D12) Implement Trie:                     HashTable, Trie
 - [ ] (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS
 - [ ] (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
 
