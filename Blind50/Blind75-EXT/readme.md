@@ -21,3 +21,4 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Jump Game
 - [x] Find Minimum in Rotated Sorted Array II
 - [ ] Constrained Subsequence Sum
+- [x] Check If Word Is Valid After Substitutions
