@@ -21,7 +21,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
 - [x] (Medium/D8) Remove Nth Node From End of List:      Linked List, Two Pointer
 - [x] (Easy/D6) Linked List Cycle:                       Linked List, HashTable, Two Pointer
-- [ ] (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
+- [x] (Medium/D6) Find Minimum in Rotated Sorted Array:   Array, 🧙‍ Binary Search
 - [x] (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
 - [x] (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 - [ ] (Hard/D18) Minimum Window Substring:               String, HashTable, Sliding Window
