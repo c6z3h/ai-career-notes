@@ -18,3 +18,4 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Maximize the Confusion of an Exam
 - [x] Top K Frequent Words
 - [x] Maximum Binary Tree
+- [x] Jump Game
