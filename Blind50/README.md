@@ -9,7 +9,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Easy/D1) Contains Duplicate:                     Sort, HashMap / Set
 - [x] (Easy/D2) Valid Anagram:                          String, Sort, HashTable
 - [x] (Easy/D4) Best Time to Buy and Sell Stock:        Array, Dynamic Programming
-- [ ] (Easy/D4) Valid Parenthesis:                      Stack
+- [x] (Easy/D4) Valid Parenthesis:                      Stack
 - [x] (Medium/D4) Product of Array Except Self:         Array, Prefix Sum
 - [ ] (Medium/D3) Merge Intervals:                      Array, Sort
 - [x] (Medium/D3) Group Anagrams:                       String, Sort, HashTable
