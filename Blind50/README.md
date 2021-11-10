@@ -13,7 +13,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Medium/D4) Product of Array Except Self:         Array, Prefix Sum
 - [ ] (Medium/D3) Merge Intervals:                      Array, Sort
 - [x] (Medium/D3) Group Anagrams:                       String, Sort, HashTable
-- [ ] (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
+- [x] (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
 - [x] (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer
 
 # Week 2: Data Structures
