@@ -25,3 +25,4 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Next Greater Element I
 - [ ] Trapping Rain Water II
 - [ ] House Robber
+- [x] Egg Drop With 2 Eggs and N Floors
