@@ -43,7 +43,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 # Week 4: More Data Structures
 - [ ] (Hard/D18) Merge k Sorted Lists:                 Linked List, 🧙‍ Merge Sort
 - [ ] (Medium/D18) Insert Interval:                    Array
-- [ ] (Hard/D16) Find Median from Data Stream:         Heap, Data Stream
+- [!] (Hard/D16) Find Median from Data Stream:         Heap, Data Stream
 - [ ] (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
 - [x] (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
 - [ ] (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
