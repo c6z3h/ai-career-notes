@@ -29,3 +29,6 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Remove Element
 - [x] Unique Paths
 - [ ] Dungeon Game
+- [x] Zigzag Conversion
+- [x] Destination City
+- [x] String Compression
