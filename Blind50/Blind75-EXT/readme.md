@@ -32,3 +32,5 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Zigzag Conversion
 - [x] Destination City
 - [x] String Compression
+- [x] Longest Palindrome Substring
+- [ ] Longest Palindromic Subsequence
