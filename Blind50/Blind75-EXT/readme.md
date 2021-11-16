@@ -34,3 +34,6 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] String Compression
 - [x] Longest Palindrome Substring
 - [ ] Longest Palindromic Subsequence
+- [x] Reverse Integer
+- [x] Palindrome Number
+- [x] Integer to Roman
