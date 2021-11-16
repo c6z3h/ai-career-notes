@@ -15,7 +15,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Medium/D3) Group Anagrams:                       String, Sort, HashTable
 - [x] (Easy/D5) Maximum Subarray:                       Array, Dynamic Programming, Divide-and-Conquer, 🧙‍♂️ Kadane's Algorithm
 - [x] (Medium/D8) 3 Sum:                               Array, Sort, Two Pointer
-
+ 
 # Week 2: Data Structures
 - [ ] (Easy/D6) Reverse a Linked List:                   Linked List, Recursion
 - [x] (Medium/D8) Container with Most Water:             Array, Two Pointer, Greedy
