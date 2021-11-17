@@ -40,3 +40,4 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] 3Sum Closest
 - [ ] Regular Expression Matching
 - [x] Longest Common Prefix
+- [ ] Permutations
