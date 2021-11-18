@@ -28,7 +28,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [ ] (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
 - [x] (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
 - [ ] (Medium/D17) Pacific Atlantic Water Flow:         Matrix, DFS
-
+ 
 # Week 3: Non-Linear Data Structures
 - [x] (Medium/D12) Top K Frequent Elements:              Array, HashTable, ...
 - [x] (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS
