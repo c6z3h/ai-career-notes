@@ -48,3 +48,4 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [ ] Symmetric Tree
 - [ ] Generate Parentheses
 - [ ] Unique Binary Search Trees II
+- [ ] Binary Tree Inorder Traversal
