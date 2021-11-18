@@ -42,3 +42,9 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Longest Common Prefix
 - [ ] Permutations
 - [x] Letter Combinations of a Phone Number
+- [x] Isomorphic Strings
+- [x] Implement strStr()
+- [x] Palindrome Linked List
+- [ ] Symmetric Tree
+- [ ] Generate Parentheses
+- [ ] Unique Binary Search Trees II
