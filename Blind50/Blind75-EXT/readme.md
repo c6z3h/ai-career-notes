@@ -49,3 +49,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [ ] Generate Parentheses
 - [ ] Unique Binary Search Trees II
 - [ ] Binary Tree Inorder Traversal
+- [x] Binary Search Tree Iterator
+- [ ] Partition List
+- [ ] Interleaving String
+- [ ] Factorial Trailing Zeroes
