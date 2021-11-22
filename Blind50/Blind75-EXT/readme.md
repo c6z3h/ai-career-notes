@@ -53,3 +53,6 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [ ] Partition List
 - [ ] Interleaving String
 - [ ] Factorial Trailing Zeroes
+- [x] Nim Game
+- [ ] Range Module (20/53)
+- [ ] Candy (29/48)
