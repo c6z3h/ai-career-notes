@@ -25,7 +25,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Medium/D8) Longest Repeating Character Replacement: String, HashTable, Sliding Window
 - [x] (Medium/D6) Longest Substring Without Repeating Characters: String, HashTable, 🧙‍ Sliding Window
 - [ ] (Hard/D18) Minimum Window Substring:               String, HashTable, Sliding Window
-- [ ] (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
+- [x] (Medium/D9) Palindromic Substrings:                String, Dynamic Programming
 - [x] (Medium/D8) Number of Islands: Array, Matrix, DFS, BFS, Union Find
 - [x] (Medium/D17) Pacific Atlantic Water Flow:         Matrix, DFS
  
@@ -42,14 +42,14 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 
 # Week 4: More Data Structures
 - [ ] (Hard/D18) Merge k Sorted Lists:                 Linked List, 🧙‍ Merge Sort
-- [ ] (Medium/D18) Insert Interval:                    Array
-- [!] (Hard/D16) Find Median from Data Stream:         Heap, Data Stream
+- [!] (Medium/D18) Insert Interval:                    Array (78/156 test cases)
+- [x] (Hard/D16) Find Median from Data Stream:         Heap, Data Stream
 - [ ] (Medium/D10) Kth Smallest Element in a BST:      Binary Search Tree, DFS
 - [x] (Medium/D17) Longest Consecutive Sequence:       Array, HashTable
-- [ ] (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
-- [ ] (Easy/D18) Subtree of Another Tree:              Tree, DFS
+- [x] (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
+- [x] (Easy/D18) Subtree of Another Tree:              Tree, DFS
 - [x] (Medium/D12) Implement Trie:                     HashTable, Trie
-- [ ] (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS
+- [!] (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS (8/13 test cases)
 - [ ] (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
 
 ## Endnotes:
