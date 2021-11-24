@@ -45,10 +45,10 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Isomorphic Strings
 - [x] Implement strStr()
 - [x] Palindrome Linked List
-- [ ] Symmetric Tree
+- [ ] Symmetric Tree (2/197)
 - [ ] Generate Parentheses
 - [ ] Unique Binary Search Trees II
-- [ ] Binary Tree Inorder Traversal
+- [ ] Binary Tree Inorder Traversal (67/68)
 - [x] Binary Search Tree Iterator
 - [ ] Partition List
 - [ ] Interleaving String
@@ -56,3 +56,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Nim Game
 - [ ] Range Module (20/53)
 - [ ] Candy (29/48)
+- [x] Length of Last Word
+- [x] Sqrt(x)
+- [x] String to Integer (atoi)
+- [x] Generate Parentheses
