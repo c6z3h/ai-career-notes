@@ -60,3 +60,4 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Sqrt(x)
 - [x] String to Integer (atoi)
 - [x] Generate Parentheses
+- [ ] Swap Nodes in Pairs (used alternative method)
