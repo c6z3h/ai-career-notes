@@ -63,4 +63,22 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [ ] Swap Nodes in Pairs (used alternative method)
 # Leetcode Study Plan
 - [x] Day 1:{ <strong>DP</strong>: {Fibonacci Number, N-th Tribonacci Number}, <strong>Algos</strong>: {Binary Search, First Bad Version, Search Insert Position}, <strong>DS</strong>: {Single Number (XOR^), Majority Element, 3Sum}  
-- [ ] 
+
+# Another Study Guide: [14 algorithms](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+1. Tree BFS, O(n) time :: {2M} Binary Tree Level Order Traversal (17/34), Binary Tree Zigzag Level Order Traversal 
+2. Top K elements :: {1M,1M*} Kth Largest Element in an Array, Top K Frequent Elements (?)
+3. Modified Binary Search :: OK
+4. Subsets
+5. K-way merge
+6. Merge Intervals
+## To Learn
+1. Cyclic Sort ???
+2. Topological Sort
+## Practice?
+1. 2 Heaps
+2. In-place reversal of linked list
+## Pretty confident
+1. Sliding Window
+2. Two Pointers
+3. Fast & Slow Pointer
+4. Tree DFS
