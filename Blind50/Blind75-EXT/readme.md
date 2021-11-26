@@ -61,3 +61,6 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] String to Integer (atoi)
 - [x] Generate Parentheses
 - [ ] Swap Nodes in Pairs (used alternative method)
+# Leetcode Study Plan
+- [x] Day 1:{ <strong>DP</strong>: {Fibonacci Number, N-th Tribonacci Number}, <strong>Algos</strong>: {Binary Search, First Bad Version, Search Insert Position}, <strong>DS</strong>: {Single Number (XOR^), Majority Element, 3Sum}  
+- [ ] 
