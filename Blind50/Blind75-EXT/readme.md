@@ -66,11 +66,19 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Day 2:{ <strong>DP</strong>: {Min Cost Climbing Stairs, Climbing Stairs}, <strong>Algos, 2-pointer</strong>: {Squares of a Sorted Array, Rotate Array}, <strong>DS</strong>: {Design HashMap, Merge Intervals, Sort Colors}  
 
 # Another Study Guide: [14 algorithms](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
-1. Tree BFS, O(n) time :: {2M} Binary Tree Level Order Traversal (17/34), Binary Tree Zigzag Level Order Traversal 
-2. Top K elements :: {1M,1M*} Kth Largest Element in an Array, Top K Frequent Elements (?)
+1. Tree BFS, O(n) time :: {2M}
+- [ ] Binary Tree Level Order Traversal (17/34)
+- [ ] Binary Tree Zigzag Level Order Traversal 
+2. Top K elements :: {1M,1M*}
+- [x] Kth Largest Element in an Array
+- [ ] Top K Frequent Elements (?)
 3. Modified Binary Search :: OK
 4. Subsets
+- [ ] Subsets II
+- [ ] Letter Case Permutation
 5. K-way merge
+- [ ] Find K Pairs with Smallest Sums 
+- [ ] Merge k Sorted Lists
 6. Merge Intervals
 ## To Learn
 1. Cyclic Sort ???
