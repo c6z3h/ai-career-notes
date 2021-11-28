@@ -62,8 +62,11 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Generate Parentheses
 - [ ] Swap Nodes in Pairs (used alternative method)
 # Leetcode Study Plan
-- [x] Day 1:{ <strong>DP</strong>: {Fibonacci Number, N-th Tribonacci Number}, <strong>Algos, binarySearch</strong>: {Binary Search, First Bad Version, Search Insert Position}, <strong>DS</strong>: {Single Number (XOR^), Majority Element, 3Sum}  
-- [x] Day 2:{ <strong>DP</strong>: {Min Cost Climbing Stairs, Climbing Stairs}, <strong>Algos, 2-pointer</strong>: {Squares of a Sorted Array, Rotate Array}, <strong>DS</strong>: {Design HashMap, Merge Intervals, Sort Colors}  
+| Day | Dynamic Programming | Data Structures | Algorithms | #to_retry | #to_attempt
+| --- | --- | --- | --- | --- | --- |
+| 1 | Fibonacci number, N-th tribonacci number | Single number, Majority element, 3Sum | (Binary search) Binary search, First bad version, Search insert position | Single number (XOR^) | |
+| 2 | Min cost climbing stairs, climbing stairs | Design hashmap, Merge intervals, Sort colors | (Two pointer) Squares of a sorted array, Rotate array | Min cost climbing stairs | |
+| 3 | House robber, House robber II, Delete and earn | Pascal's triangle II, Rotate image, Spiral matrix II | (Two pointer) Move zeroes, Two sum II - input array is sorted | House robber II, Delete and earn | Rotate image, Spiral matrix II |
 
 # Another Study Guide: [14 algorithms](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 1. Tree BFS, O(n) time :: {2M}
