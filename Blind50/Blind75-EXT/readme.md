@@ -62,8 +62,8 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [ ] Swap Nodes in Pairs (used alternative method)
 
 # Leetcode Study Plan
-| Day | Dynamic Programming | Data Structures | Algorithms |
-| --- | --- | --- | --- | --- | --- |
+Day | Dynamic Programming | Data Structures | Algorithms |
+| --- | --- | --- | --- |
 | 1 | <ul><li>[x] Fibonacci number</li><li>[x] N-th tribonacci number</li></ul> | <ul><li>[ ] Single number(XOR^)</li><li>[x] Majority element</li><li>[x] 3Sum</li></ul> | (Binary search)<ul><li>[x] Binary search</li><li>[x] First bad version</li><li>[x] Search insert position</li></ul>
 | 2 | <ul><li>[ ] Min cost climbing stairs</li><li>[x] climbing stairs</li></ul> | <ul><li>[x] Design hashmap</li><li>[x] Merge intervals</li><li>[x] Sort colors</li></ul> | (Two pointer)<ul><li>[x] Squares of a sorted array</li><li>[x] Rotate array</li></ul>
 | 3 | <ul><li>[x] House robber</li><li>[ ] House robber II</li><li>[ ] Delete and earn</li></ul> | <ul><li>[x] Pascal's triangle II</li><li>Rotate image</li><li>Spiral matrix II</li></ul> | (Two pointer)<ul><li>[x] Move zeroes</li><li>[x] Two sum II - input array is sorted</li></ul>
