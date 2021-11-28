@@ -6,7 +6,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [ ] Rotate Image (1 attempt)
 - [ ] Reorder List (1 attempt)
 
-# Extra practice
+# Random practice
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 - [x] Maximum Product Subarray
 - [!] Four Sum (176 / 289 test cases)
@@ -60,36 +60,28 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] String to Integer (atoi)
 - [x] Generate Parentheses
 - [ ] Swap Nodes in Pairs (used alternative method)
+
 # Leetcode Study Plan
-| Day | Dynamic Programming | Data Structures | Algorithms | #to_retry | #to_attempt
+| Day | Dynamic Programming | Data Structures | Algorithms |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Fibonacci number, N-th tribonacci number | Single number, Majority element, 3Sum | (Binary search) Binary search, First bad version, Search insert position | Single number (XOR^) | |
-| 2 | Min cost climbing stairs, climbing stairs | Design hashmap, Merge intervals, Sort colors | (Two pointer) Squares of a sorted array, Rotate array | Min cost climbing stairs | |
-| 3 | House robber, House robber II, Delete and earn | Pascal's triangle II, Rotate image, Spiral matrix II | (Two pointer) Move zeroes, Two sum II - input array is sorted | House robber II, Delete and earn | Rotate image, Spiral matrix II |
+| 1 | <ul><li>[x] Fibonacci number</li><li>[x] N-th tribonacci number</li></ul> | <ul><li>[ ] Single number(XOR^)</li><li>[x] Majority element</li><li>[x] 3Sum</li></ul> | (Binary search)<ul><li>[x] Binary search</li><li>[x] First bad version</li><li>[x] Search insert position</li></ul>
+| 2 | <ul><li>[ ] Min cost climbing stairs</li><li>[x] climbing stairs</li></ul> | <ul><li>[x] Design hashmap</li><li>[x] Merge intervals</li><li>[x] Sort colors</li></ul> | (Two pointer)<ul><li>[x] Squares of a sorted array</li><li>[x] Rotate array</li></ul>
+| 3 | <ul><li>[x] House robber</li><li>[ ] House robber II</li><li>[ ] Delete and earn</li></ul> | <ul><li>[x] Pascal's triangle II</li><li>Rotate image</li><li>Spiral matrix II</li></ul> | (Two pointer)<ul><li>[x] Move zeroes</li><li>[x] Two sum II - input array is sorted</li></ul>
 
 # Another Study Guide: [14 algorithms](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
-1. Tree BFS, O(n) time :: {2M}
-- [ ] Binary Tree Level Order Traversal (17/34)
-- [ ] Binary Tree Zigzag Level Order Traversal 
-2. Top K elements :: {1M,1M*}
-- [x] Kth Largest Element in an Array
-- [ ] Top K Frequent Elements (?)
-3. Modified Binary Search :: OK
-4. Subsets
-- [ ] Subsets II
-- [ ] Letter Case Permutation
-5. K-way merge
-- [ ] Find K Pairs with Smallest Sums 
-- [ ] Merge k Sorted Lists
-6. Merge Intervals
-## To Learn
-1. Cyclic Sort ???
-2. Topological Sort
-## Practice?
-1. 2 Heaps
-2. In-place reversal of linked list
-## Pretty confident
-1. Sliding Window
-2. Two Pointers
-3. Fast & Slow Pointer
-4. Tree DFS
+Item | Topic | Action | Questions
+| --- | --- | --- | --- |
+| 1 | Tree BFS, O(n) time | Solve | <ul><li>[ ] Binary Tree Level Order Traversal (17/34)</li><li>[ ] Binary Tree Zigzag Level Order Traversal</li></ul>
+| 2 | Top K elements | Solve | <ul><li>[x] Kth Largest Element in an Array</li><li>[ ] Top K Frequent Elements (?)</li></ul>
+| 3 | Modified Binary Search | Solved | OK
+| 4 | Subsets | Solve | <ul><li>[ ] Subsets II</li><li>[ ] Letter Case Permutation</li></ul>
+| 5 | K-way merge | Solve | <ul><li>[ ] Find K Pairs with Smallest Sums</li><li>[ ] Merge k Sorted Lists</li></ul>
+| 6 | Merge Intervals | Solve | <ul><li>[ ] tbc</li><li>[ ] tbc</li></ul>
+| 7 | Cyclic Sort | Learn | tbc
+| 8 | Topological Sort | Learn | tbc
+| 9 | 2 Heaps | Practice? | tbc
+| 10 | In-place reversal of linked list | Practice? | tbc
+| 11 | Sliding Window | Pretty confident | tbc
+| 12 | Two Pointers | Pretty confident | tbc
+| 13 | Fast & Slow Pointer | Pretty confident | tbc
+| 14 | Tree DFS | Pretty confident | tbc
