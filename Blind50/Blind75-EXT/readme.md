@@ -67,7 +67,8 @@ Day | Dynamic Programming | Data Structures | Algorithms |
 | 1 | <ul><li>[x] Fibonacci number</li><li>[x] N-th tribonacci number</li></ul> | <ul><li>[ ] Single number(XOR^)</li><li>[x] Majority element</li><li>[x] 3Sum</li></ul> | (Binary search)<ul><li>[x] Binary search</li><li>[x] First bad version</li><li>[x] Search insert position</li></ul>
 | 2 | <ul><li>[ ] Min cost climbing stairs</li><li>[x] climbing stairs</li></ul> | <ul><li>[x] Design hashmap</li><li>[x] Merge intervals</li><li>[x] Sort colors</li></ul> | (Two pointer)<ul><li>[x] Squares of a sorted array</li><li>[x] Rotate array</li></ul>
 | 3 | <ul><li>[x] House robber</li><li>[ ] House robber II</li><li>[ ] Delete and earn</li></ul> | <ul><li>[x] Pascal's triangle II</li><li>Rotate image</li><li>Spiral matrix II</li></ul> | (Two pointer)<ul><li>[x] Move zeroes</li><li>[x] Two sum II - input array is sorted</li></ul>
-
+| 4 | <ul><li>[] Jump game</li><li>Jump game II</li></ul> | <ul><li>Search a 2D Matrix II</li><li>Non-overlapping Intervals</li></ul> | (Two pointer)<ul><li>[x] Reverse String</li><li>Reverse Words in a String III</li></ul>  
+  
 # Another Study Guide: [14 algorithms](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 Item | Topic | Action | Questions
 | --- | --- | --- | --- |
