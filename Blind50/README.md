@@ -50,7 +50,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Easy/D18) Subtree of Another Tree:              Tree, DFS
 - [x] (Medium/D12) Implement Trie:                     HashTable, Trie
 - [!] (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS (8/13 test cases)
-- [!] (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking (31/62 test cases)
+- [x] (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
 
 ## Endnotes:
 ### [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/):
