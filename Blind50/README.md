@@ -38,7 +38,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [!] (Medium/D18) Course Schedule:                      DFS, Graph, 🧙‍ Topological Sort (11/51 test cases)
 - [ ] (Hard/D18) Binary Tree Maximum Path Sum:           Binary Tree, DFS, Dynamic Programming
 - [x] (Medium/D18) Construct Binary Tree from Preorder and Inorder Traversal: Binary Tree
-- [!] (Hard/D18) Serialize and Deserialize Binary Tree:  String, Binary Tree, DFS (6/62 test cases)
+- [!!] (Hard/D18) Serialize and Deserialize Binary Tree:  String, Binary Tree, DFS (6/62 test cases)
 
 # Week 4: More Data Structures
 - [ ] (Hard/D18) Merge k Sorted Lists:                 Linked List, 🧙‍ Merge Sort
@@ -49,7 +49,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
 - [x] (Easy/D18) Subtree of Another Tree:              Tree, DFS
 - [x] (Medium/D12) Implement Trie:                     HashTable, Trie
-- [!] (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS (8/13 test cases)
+- [!!] (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS (8/13 test cases)
 - [x] (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
 
 ## Endnotes:
