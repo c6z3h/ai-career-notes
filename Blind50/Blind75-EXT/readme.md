@@ -7,8 +7,6 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [ ] Reorder List (1 attempt)
 
 # Random practice
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
-- [x] Maximum Product Subarray
 - [!] Four Sum (176 / 289 test cases)
 - [x] Trapping Rain Water (see: [Neetcode Tutorial](https://www.youtube.com/watch?v=ZI2z5pq0TqA))
 - [x] Swapping Nodes in a Linked List
@@ -18,7 +16,6 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] Maximize the Confusion of an Exam
 - [x] Top K Frequent Words
 - [x] Maximum Binary Tree
-- [x] Jump Game
 - [x] Find Minimum in Rotated Sorted Array II
 - [ ] Constrained Subsequence Sum
 - [x] Check If Word Is Valid After Substitutions
