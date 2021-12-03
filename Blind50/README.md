@@ -33,7 +33,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Medium/D12) Top K Frequent Elements:              Array, HashTable, ...
 - [x] (Easy/D9) Invert Binary Tree:                      Binary Tree, DFS, BFS
 - [x] (Medium/D12) Validate Binary Search Tree:          Binary Seach Tree, DFS
-- [!!] (Medium/D11) Clone Graph:                          HashTable, DFS, Graph (? test cases)
+- [x] (Medium/D11) Clone Graph:                          HashTable, DFS, Graph (? test cases)
 - [x] (Medium/D7) Non-overlapping Intervals:             Array, Sort, Dynamic Programming, Greedy
 - [!!] (Medium/D18) Course Schedule:                      DFS, Graph, 🧙‍ Topological Sort (11/51 test cases)
 - [ ] (Hard/D18) Binary Tree Maximum Path Sum:           Binary Tree, DFS, Dynamic Programming
@@ -49,7 +49,7 @@ Method: REACTO (Repeat, Example, Algorithm, Code, Test, Optimize):: You can sear
 - [x] (Easy/D14) Lowest Common Ancestor of a BST:      Binary Search Tree, DFS
 - [x] (Easy/D18) Subtree of Another Tree:              Tree, DFS
 - [x] (Medium/D12) Implement Trie:                     HashTable, Trie
-- [!!!] (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS (8/13 test cases)
+- [x] (Medium/D18) Design Add and Search Words Data Structure: String, Trie, DFS (8/13 test cases)
 - [x] (Hard/D18) Word Search II:                      Matrix, Trie, Backtracking
 
 ## Endnotes:
