@@ -10,7 +10,6 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [!] Four Sum (176 / 289 test cases)
 - [x] Trapping Rain Water (see: [Neetcode Tutorial](https://www.youtube.com/watch?v=ZI2z5pq0TqA))
 - [x] Swapping Nodes in a Linked List
-- [x] Max Area of Island
 - [x] Find Mode in BST
 - [x] Linked List Cycle II 
 - [x] Maximize the Confusion of an Exam
@@ -67,8 +66,11 @@ Day | Dynamic Programming | Data Structures | Algorithms |
 | 4 | <ul><li>[ ] Jump game</li><li>[x] Jump game II</li></ul> | <ul><li>[x] Search a 2D Matrix II</li><li>Non-overlapping Intervals</li></ul> | (Two pointer)<ul><li>[x] Reverse String</li><li>[x] Reverse Words in a String III</li></ul>  
 | 5 | <ul><li>[x] Maximum Subarray</li><li>[ ] Maximum Sum Circular Subarray</li></ul> | <ul><li>Increasing Triplet Subsequence</li><li>Product of Array Except Self</li><li>Subarray Sum Equals K</li></ul> | (Two pointer)<ul><li>[x] Middle of the Linked List</li><li>[x] Remove Nth Node From End of List</li></ul>  
 | 6 | <ul><li>[x] Maximum Product Subarray</li><li>Maximum Length of Subarray With Positive Product</li></ul> | <ul><li>[x] Add Strings</li><li>[x] Longest Palindrome</li></ul> | (Sliding window)<ul><li>Longest Substring Without Repeating Characters</li><li>Permutation in String</li></ul>  
-| 7 | <ul><li>Best Sightseeing Pair</li><li>[x] Best Time to Buy and Sell Stock</li><li>[x] Best Time to Buy and Sell Stock II</li></ul> | <ul><li>Word Pattern</li><li>Partition Labels</li></ul> | (Breadth-First Search / Depth-First Search)<ul><li>[x] Flood Fill</li><li>Max Area of Island</li></ul>  
+| 7 | <ul><li>Best Sightseeing Pair</li><li>[x] Best Time to Buy and Sell Stock</li><li>[x] Best Time to Buy and Sell Stock II</li></ul> | <ul><li>Word Pattern</li><li>Partition Labels</li></ul> | (Breadth-First Search / Depth-First Search)<ul><li>[x] Flood Fill</li><li>[x] Max Area of Island</li></ul>  
 | 8 | <ul><li>Best Time to Buy and Sell Stock with Cooldown</li><li>Best Time to Buy and Sell Stock with Transaction Fee</li></ul> | <ul><li>Group Anagrams</li><li>Multiply Strings</li></ul> | (Breadth-First Search / Depth-First Search)<ul><li>[ ] Merge Two Binary Trees</li><li>Populating Next Right Pointers in Each Node</li></ul>  
+| 9 | <ul><li>Word Break</li><li>Trapping Rain Water</li></ul> | <ul><li>Repeated DNA Sequences</li><li>Longest Palindromic Substring</li></ul> | (Breadth-First Search / Depth-First Search)<ul><li>01 Matrix</li><li>Rotting Oranges</li></ul>  
+| 10 | <ul><li>Arithmetic Slices</li><li>Decode Ways</li></ul> | <ul><li>Add Two Numbers</li><li>Linked List Cycle II</li></ul> | (Recursion / Backtracking)<ul><li>[x] Merge Two Sorted Lists</li><li>[x] Reverse Linked List</li></ul>  
+| 11 | <ul><li>Ugly Number II</li><li>Unique Binary Search Trees</li></ul> | <ul><li>Intersection of Two Linked Lists</li><li>Remove Duplicates from Sorted List II</li></ul> | (Recursion / Backtracking)<ul><li>[ ] Combinations</li><li>Permutations</li><li>Letter Case Permutation</li></ul>  
 
 # Another Study Guide: [14 algorithms](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 Item | Topic | Action | Questions
