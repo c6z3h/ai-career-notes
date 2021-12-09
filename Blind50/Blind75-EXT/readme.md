@@ -2,9 +2,6 @@
 Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 - [x] Search in a Rotated Sorted Array
-- [ ] Spiral Matrix (1 attempt)
-- [ ] Rotate Image (1 attempt)
-- [ ] Reorder List (1 attempt)
 
 # Random practice
 - [!] Four Sum (176 / 289 test cases)
@@ -34,13 +31,11 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 - [x] 3Sum Closest
 - [ ] Regular Expression Matching
 - [x] Longest Common Prefix
-- [ ] Permutations
 - [x] Letter Combinations of a Phone Number
 - [x] Isomorphic Strings
 - [x] Implement strStr()
 - [x] Palindrome Linked List
 - [ ] Symmetric Tree (2/197)
-- [ ] Generate Parentheses
 - [ ] Unique Binary Search Trees II
 - [ ] Binary Tree Inorder Traversal (67/68)
 - [x] Binary Search Tree Iterator
@@ -60,18 +55,18 @@ Day | Dynamic Programming | Data Structures | Algorithms |
 | --- | --- | --- | --- |
 | 1 | <ul><li>[x] Fibonacci number</li><li>[x] N-th tribonacci number</li></ul> | <ul><li>[ ] Single number(XOR^)</li><li>[x] Majority element</li><li>[x] 3Sum</li></ul> | (Binary search)<ul><li>[x] Binary search</li><li>[x] First bad version</li><li>[x] Search insert position</li></ul>
 | 2 | <ul><li>[ ] Min cost climbing stairs</li><li>[x] climbing stairs</li></ul> | <ul><li>[x] Design hashmap</li><li>[x] Merge intervals</li><li>[x] Sort colors</li></ul> | (Two pointer)<ul><li>[x] Squares of a sorted array</li><li>[x] Rotate array</li></ul>
-| 3 | <ul><li>[x] House robber</li><li>[ ] House robber II</li><li>[ ] Delete and earn</li></ul> | <ul><li>[x] Pascal's triangle II</li><li>Rotate image</li><li>Spiral matrix II</li></ul> | (Two pointer)<ul><li>[x] Move zeroes</li><li>[x] Two sum II - input array is sorted</li></ul>
+| 3 | <ul><li>[x] House robber</li><li>[ ] House robber II</li><li>[ ] Delete and earn</li></ul> | <ul><li>[x] Pascal's triangle II</li><li>[ ] Rotate image</li><li>[ ] Spiral matrix II</li></ul> | (Two pointer)<ul><li>[x] Move zeroes</li><li>[x] Two sum II - input array is sorted</li></ul>
 | 4 | <ul><li>[ ] Jump game</li><li>[x] Jump game II</li></ul> | <ul><li>[x] Search a 2D Matrix II</li><li>Non-overlapping Intervals</li></ul> | (Two pointer)<ul><li>[x] Reverse String</li><li>[x] Reverse Words in a String III</li></ul>  
 | 5 | <ul><li>[x] Maximum Subarray</li><li>[ ] Maximum Sum Circular Subarray</li></ul> | <ul><li>Increasing Triplet Subsequence</li><li>Product of Array Except Self</li><li>Subarray Sum Equals K</li></ul> | (Two pointer)<ul><li>[x] Middle of the Linked List</li><li>[x] Remove Nth Node From End of List</li></ul>  
 | 6 | <ul><li>[x] Maximum Product Subarray</li><li>Maximum Length of Subarray With Positive Product</li></ul> | <ul><li>[x] Add Strings</li><li>[x] Longest Palindrome</li></ul> | (Sliding window)<ul><li>[x] Longest Substring Without Repeating Characters</li><li>[ ] Permutation in String</li></ul>  
-| 7 | <ul><li>Best Sightseeing Pair</li><li>[x] Best Time to Buy and Sell Stock</li><li>[x] Best Time to Buy and Sell Stock II</li></ul> | <ul><li>Word Pattern</li><li>Partition Labels</li></ul> | (Breadth-First Search / Depth-First Search)<ul><li>[x] Flood Fill</li><li>[x] Max Area of Island</li></ul>  
+| 7 | <ul><li>Best Sightseeing Pair</li><li>[x] Best Time to Buy and Sell Stock</li><li>[x] Best Time to Buy and Sell Stock II</li></ul> | <ul><li>[x] Word Pattern</li><li>[x] Partition Labels</li></ul> | (Breadth-First Search / Depth-First Search)<ul><li>[x] Flood Fill</li><li>[x] Max Area of Island</li></ul>  
 | 8 | <ul><li>Best Time to Buy and Sell Stock with Cooldown</li><li>Best Time to Buy and Sell Stock with Transaction Fee</li></ul> | <ul><li>Group Anagrams</li><li>Multiply Strings</li></ul> | (Breadth-First Search / Depth-First Search)<ul><li>[ ] Merge Two Binary Trees</li><li>[ ] Populating Next Right Pointers in Each Node</li></ul>  
 | 9 | <ul><li>Word Break</li><li>Trapping Rain Water [Neetcode Tutorial](https://www.youtube.com/watch?v=ZI2z5pq0TqA)</li></ul> | <ul><li>Repeated DNA Sequences</li><li>Longest Palindromic Substring</li></ul> | (Breadth-First Search / Depth-First Search)<ul><li>[x] 01 Matrix</li><li>[x] Rotting Oranges</li></ul>  
 | 10 | <ul><li>Arithmetic Slices</li><li>Decode Ways</li></ul> | <ul><li>Add Two Numbers</li><li>Linked List Cycle II</li></ul> | (Recursion / Backtracking)<ul><li>[x] Merge Two Sorted Lists</li><li>[x] Reverse Linked List</li></ul>  
-| 11 | <ul><li>Ugly Number II</li><li>Unique Binary Search Trees</li></ul> | <ul><li>Intersection of Two Linked Lists</li><li>Remove Duplicates from Sorted List II</li></ul> | (Recursion / Backtracking)<ul><li>[ ] Combinations</li><li>[x] Permutations</li><li>Letter Case Permutation</li></ul>  
+| 11 | <ul><li>Ugly Number II</li><li>Unique Binary Search Trees</li></ul> | <ul><li>Intersection of Two Linked Lists</li><li>Remove Duplicates from Sorted List II</li></ul> | (Recursion / Backtracking)<ul><li>[ ] Combinations</li><li>[x] Permutations</li><li>[x] Letter Case Permutation</li></ul>  
 | 12 | <ul><li>Pascal's Triangle</li><li>Pascal's Triangle II</li></ul> | <ul><li>Swap Nodes in Pairs</li><li>Design Linked List</li></ul> | (Dynamic Programming)<ul><li>[x] Climbing Stairs</li><li>[x] House Robber</li><li>[ ] Triangle</li></ul>  
-| 13 | <ul><li>Minimum Falling Path Sum</li><li>[ ] Triangle</li></ul> | <ul><li>Reverse Nodes in k-Group</li><li>Reorder List</li></ul> | (Bit Manipulation)<ul><li>[x] Power of Two</li><li>[x] Number of 1 Bits</li></ul>  
-| 14 | <ul><li>Matrix Block Sum</li><li>Range Sum Query 2D - Immutable</li></ul> | <ul><li>Min Stack</li><li>Minimum Remove to Make Valid Parentheses</li><li>Find the Winner of the Circular Game</li></ul> | (Bit Manipulation)<ul><li>Reverse Bits</li><li>Single Number</li></ul> 
+| 13 | <ul><li>Minimum Falling Path Sum</li><li>[ ] Triangle</li></ul> | <ul><li>Reverse Nodes in k-Group</li><li>[ ] Reorder List</li></ul> | (Bit Manipulation)<ul><li>[x] Power of Two</li><li>[x] Number of 1 Bits</li></ul>  
+| 14 | <ul><li>Matrix Block Sum</li><li>Range Sum Query 2D - Immutable</li></ul> | <ul><li>Min Stack</li><li>Minimum Remove to Make Valid Parentheses</li><li>Find the Winner of the Circular Game</li></ul> | (Bit Manipulation)<ul><li>[x] Reverse Bits</li><li>[x] Single Number</li></ul> 
 
 # Another Study Guide: [14 algorithms](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 Item | Topic | Action | Questions
