@@ -5,12 +5,12 @@
 ## Focus Area
 - [ ] [Detailed Explanation on Dynamic Programming, Leetcode](https://leetcode.com/explore/learn/card/dynamic-programming/)
 - [ ] [Dynamic Programming](https://leetcode.com/study-plan/dynamic-programming/)
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
 ## My Coding Tests
 ### 1. AI Singapore: AI Apprentice Test
 ### 2. Grab: (1) DevOps, (2) DSAI Test
